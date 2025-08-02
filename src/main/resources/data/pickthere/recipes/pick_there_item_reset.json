@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pickthere:pick_there_item"
+    }
+  ],
+  "result": {
+    "item": "pickthere:pick_there_item"
+  }
+}
