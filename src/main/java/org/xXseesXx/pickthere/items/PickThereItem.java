@@ -44,7 +44,7 @@ public class PickThereItem extends Item {
 
     public static void registerItemProperties() {
         ItemProperties.register(org.xXseesXx.pickthere.init.ModItems.PICK_THERE_ITEM.get(), 
-            ResourceLocation.fromNamespaceAndPath("pickthere", "active"), 
+            new ResourceLocation("pickthere", "active"), 
             (stack, level, entity, seed) -> {
                 return isPickupEnabled(stack) ? 1.0F : 0.0F;
             });
