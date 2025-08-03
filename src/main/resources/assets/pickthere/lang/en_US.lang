@@ -1,0 +1,42 @@
+# Pick There Mod Language File - English (US)
+
+# Item names
+item.pickThereItem.name=Pick There
+
+# Tooltip translations
+pickthere.tooltip.selected_inventories=Selected Inventories: %d
+pickthere.tooltip.regular_count=Regular: %d, Same-Item-Only: %d
+pickthere.tooltip.current_mode=Mode: %s
+pickthere.tooltip.pickup_status=Pickup: %s
+pickthere.tooltip.regular_positions=Regular Inventories:
+pickthere.tooltip.same_item_positions=Same-Item-Only Inventories:
+pickthere.tooltip.and_more=... and %d more
+pickthere.tooltip.distance_limit=Distance Limit: %s blocks
+pickthere.tooltip.visual_effects=Visual Effects: %s
+pickthere.tooltip.usage1=§7Shift+Right-click inventory to select
+pickthere.tooltip.usage2=§7Right-click air to toggle mode
+pickthere.tooltip.usage3=§7Shift+Right-click air to toggle pickup
+pickthere.tooltip.reset_recipe=§7Reset: Place alone in crafting grid
+
+# Chat message translations
+pickthere.chat.removed_regular=§6Removed regular inventory at %s
+pickthere.chat.added_regular=§6Added regular inventory at %s
+pickthere.chat.removed_same_item=§cRemoved same-item-only inventory at %s
+pickthere.chat.added_same_item=§cAdded same-item-only inventory at %s
+pickthere.chat.pickup_enabled=§aPickup redirection enabled
+pickthere.chat.pickup_disabled=§cPickup redirection disabled
+pickthere.chat.mode_regular=§6Switched to Regular mode
+pickthere.chat.mode_same_item=§cSwitched to Same-Item-Only mode
+pickthere.chat.item_reset=§aPickThere item has been reset to default settings
+
+# Mode and status translations
+pickthere.mode.regular=Regular
+pickthere.mode.same_item_only=Same-Item-Only
+pickthere.status.enabled=Enabled
+pickthere.status.disabled=Disabled
+pickthere.distance.unlimited=Unlimited
+pickthere.visual.enabled=On
+pickthere.visual.disabled=Off
+
+# Creative tab
+itemGroup.pickthere=Pick There

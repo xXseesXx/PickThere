@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pickthere",
+  "name": "Pick There",
+  "description": "Redirect item pickups to selected inventories with visual feedback.",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["xXseesXx"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
