@@ -6,8 +6,6 @@
 
 A Minecraft Forge mod that adds an item to directly store picked-up items in selected blocks with visual wireframe highlighting.
 
-![PickThere Device Demo](https://via.placeholder.com/800x400/2d2d2d/ffffff?text=PickThere+Device+Demo)
-
 ## 📋 Table of Contents
 
 - [Features](#-features)
